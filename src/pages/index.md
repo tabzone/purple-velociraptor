@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Unlock your Planograms!
-    subtitle: Get Quick Insights to your planograms.
+    subtitle: Get FAST Insights to your planograms.
     actions:
       - label: Request Demo
         url: /pricing
