@@ -5,7 +5,7 @@ sections:
     title: Unlock your Planogram!
     subtitle: Get Quick Insights to your planograms.
     actions:
-      - label: Try for free
+      - label: Request Demo
         url: /pricing
         style: primary
     image: images/hero.svg
