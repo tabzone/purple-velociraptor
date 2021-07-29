@@ -42,9 +42,9 @@ sections:
     title: Why Choose Reveal Pro?
     features:
       - title: Planogram Space data provides tremendous insights.
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          But its locked in a flat file or database. Reveal helps you unlock the
+          data in a fast innovative way.
         actions:
           - label: Learn More
             url: /thank-you
