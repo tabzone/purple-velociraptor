@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Unlock your Planogram!
+    title: Unlock your Planograms!
     subtitle: Get Quick Insights to your planograms.
     actions:
       - label: Request Demo
