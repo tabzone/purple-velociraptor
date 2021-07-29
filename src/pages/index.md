@@ -93,8 +93,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
+          “I love how we went from extracting and Analyzing Planogram Data from
+          weeks to just hours!”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
