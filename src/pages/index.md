@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Unlock your Planogram!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Get Quick Insights to your planograms.
     actions:
       - label: Try for free
         url: /pricing
