@@ -41,7 +41,7 @@ sections:
   - type: features_section
     title: Why Choose Reveal Pro?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Planogram Space data provides tremendous insights.
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
