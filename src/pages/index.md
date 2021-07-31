@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    title: Why Choose Reveal Pro SaaS solution?
+    title: Why Choose Reveal SaaS solution?
     features:
       - title: Planogram Space data provides tremendous insights.
         content: >
