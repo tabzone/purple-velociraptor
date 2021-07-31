@@ -31,8 +31,7 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false,
-        "logo": "images/logo.png"
+        "has_anncmnt": false
     },
     "footer": {
         "logo": "images/logo.svg",
