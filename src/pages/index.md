@@ -8,7 +8,7 @@ sections:
       - label: REQUEST A DEMO
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: images/Capture1.JPG
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
