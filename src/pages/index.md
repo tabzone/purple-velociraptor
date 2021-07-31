@@ -105,7 +105,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: Upload 1000's of Planogram to Reveal Portal
+      - title: Upload Planograms to Reveal Portal
         title_align: left
         content: |
           Upload planogram or schematic files to Reveal Cloud
