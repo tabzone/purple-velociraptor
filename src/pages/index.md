@@ -25,7 +25,7 @@ sections:
       - title: Planogram Space data provides tremendous insights.
         content: >
           But its locked in a flat file or database. Reveal helps you unlock the
-          data in a fast innovative way.
+          data in a fast innovative way. No Software Installing Required!
         actions:
           - label: Learn More
             url: /thank-you
