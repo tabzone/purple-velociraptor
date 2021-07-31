@@ -95,7 +95,7 @@ sections:
       - title: >-
           “I love how we went from extracting and Analyzing Planogram Data from
           weeks to just hours!”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: Reveal User.
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
