@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "images/twitter_header_photo_1.png"
     },
     "footer": {
         "logo": "images/logo.svg",
