@@ -99,9 +99,9 @@ sections:
         image_has_padding: true
       - title: Reveal Analysis and Extracts Valuable data within minutes.
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Data is extracted , sanitized and product/store master data is matched
+          based on rules defined.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
