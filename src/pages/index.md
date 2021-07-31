@@ -38,10 +38,8 @@ sections:
         media_position: right
         media_width: sixty
       - title: Compare Aggregated Planogram Data Across Projects
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: |
+          Create Project Containers and Compare them with a click of a button.
         actions:
           - label: Learn More
             url: /thank-you
