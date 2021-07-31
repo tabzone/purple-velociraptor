@@ -107,8 +107,9 @@ sections:
     grid_items:
       - title: Upload Planograms to Reveal Portal
         title_align: left
-        content: |
-          Upload planogram or schematic files to Reveal Cloud
+        content: >
+          Upload your planogram or schematic files to Reveal Cloud. We support
+          many formats such as .psa or .abp.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
