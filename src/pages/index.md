@@ -109,7 +109,8 @@ sections:
         title_align: left
         content: >
           Upload your planogram or schematic files to Reveal Cloud.  Reveal
-          support many formats such as .psa or .abp.
+          support many current Space Plannning Planogram formats such as .psa
+          (JDA/BY) or .adp (Apollo)
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
