@@ -27,11 +27,6 @@
                 "style": "link"
             },
             {
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "secondary"
-            },
-            {
                 "label": "Get Demo",
                 "url": "/thank-you",
                 "style": "primary"
