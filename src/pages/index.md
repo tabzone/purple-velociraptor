@@ -179,8 +179,7 @@ sections:
     content: |
       Unlock you Planogram Data today!
     actions:
-      - label: Try for free
-        url: /thank-you
+      - url: /thank-you
         style: primary
     actions_width: fourty
     align: center
