@@ -52,9 +52,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Saas Based Solution. No Software Install Needed.
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          No IT expertise or Software Installation Required. You still get to
+          download your data file and use in any reporting solution such as
+          Tableau or Power BI
         actions:
           - label: Learn More
             url: /thank-you
