@@ -139,7 +139,7 @@ sections:
       Unlock you Planogram Data today!
     actions:
       - url: /thank-you
-        style: link
+        style: primary
         label: Get Demo
     actions_width: fourty
     align: center
