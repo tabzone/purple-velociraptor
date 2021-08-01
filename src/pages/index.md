@@ -140,6 +140,7 @@ sections:
     actions:
       - url: /thank-you
         style: primary
+        label: Get Demo
     actions_width: fourty
     align: center
     padding_top: large
