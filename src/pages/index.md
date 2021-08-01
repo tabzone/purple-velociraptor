@@ -94,7 +94,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Reveal Analysis and Extracts Valuable data within minutes.
+      - title: Reveal Analyzes and Extracts Valuable data within minutes.
         title_align: left
         content: >
           Data is extracted , sanitized and product/store master data is matched
