@@ -100,7 +100,7 @@ sections:
           Data is extracted , sanitized and product/store master data is matched
           based on rules defined.
         content_align: left
-        image: images/icon-2.svg
+        image: images/icon-3.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
